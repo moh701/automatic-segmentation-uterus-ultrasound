@@ -76,7 +76,7 @@ Due to **privacy and ethical restrictions**, the original dataset **cannot be sh
 ## Results  
 (what the model outputs)
 
-## 📌 Future Work  ✅ (ADD IT HERE)
+## 📌 Future Work  ✅ 
 - Improve segmentation accuracy by **fine-tuning U-Net hyperparameters**.
 - Train on a **larger dataset** with more variations in ultrasound scans.
 - Implement **real-time segmentation** for clinical use.
